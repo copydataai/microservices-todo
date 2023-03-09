@@ -43,3 +43,7 @@
   - Terraform for easy deploy 
   - use Github Actions like Pipeline 
   - Docker to build container and binary for deploy in AWS
+  
+### License
+MIT License
+You can create your own todo oriented to microservices from free.
